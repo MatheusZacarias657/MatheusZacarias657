@@ -66,7 +66,7 @@
 
 ## 📈 Github Stats
 
-<img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZacarias657&show_icons=true&hide_border=true&theme=radical&&layout=compact" /> 
+<img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZacarias657" /> 
 
 ## ☎ Contact Me
 
