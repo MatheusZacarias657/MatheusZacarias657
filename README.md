@@ -71,10 +71,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-## 📈 Github Stats
+<!-- ## 📈 Github Stats
 
-<img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZacarias657&show_icons=true&hide_border=true&theme=radical&layout=compact" />
-
+<img width="96%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusZacarias657&show_icons=true&hide_border=true&theme=radical&layout=compact" /> -->
 
 ## ☎ Contact Me
 
