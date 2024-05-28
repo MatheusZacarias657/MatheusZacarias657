@@ -3,7 +3,7 @@
 
 ### 🧘‍♂️ How am I
 
-- 🔭 I’m currently working at **Stefanini. São Paulo, Brazil**
+- 🔭 I’m currently working at **Senior. Itu, Brazil**
 
 - 🌱 I’m always improving my **Software Development Skills**
 
