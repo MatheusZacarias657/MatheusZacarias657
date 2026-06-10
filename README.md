@@ -7,7 +7,7 @@
 
 - 🌱 I’m always improving my **Software Development Skills**
 
-- 🎓 I have a degree in **Bachelor of Computing**
+- 🎓 I have a degree in **Bachelor of Computing Engineering**
 
 ## ⚡ Tech Skills
 
